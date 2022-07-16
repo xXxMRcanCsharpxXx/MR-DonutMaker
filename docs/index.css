@@ -1,0 +1,47 @@
+#clickDonut{
+    margin-top: 75px;
+    margin-left: 0%;
+}
+
+body, header, main, section{
+    background-color: palegoldenrod;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    color: fuchsia;
+   
+    text-decoration: skyblue wavy underline overline;
+}
+
+span{
+    color:hotpink
+}
+
+html{
+    color:blue;
+    font-size: large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+button {
+    color: brown; 
+    max-width: 80%;
+    font-size: large;
+    background-color: lightcyan;
+    border-radius: 9px;
+}
+
+a{
+    color:blueviolet
+}
+
+#collapsible{
+    display:none;
+}
+
+h2{
+    font-size: xx-large;
+}
